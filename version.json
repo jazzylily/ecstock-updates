@@ -1,0 +1,10 @@
+{
+  "versionCode": 3,
+  "versionName": "3.1",
+  "apkUrl": "https://raw.githubusercontent.com/jazzylily/ECStock/master/appupdates/app-release.apk",
+  "apkSize": 37977897,
+  "releaseNotes": "Release with added product notes, new location navigation, add scan barcode to add to product ",
+  "releaseDate": "2026-03-28",
+  "forceUpdate": false,
+  "minSupportedVersion": 1
+}
