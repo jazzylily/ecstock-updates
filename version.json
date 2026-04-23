@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "6.1",
+  "versionCode": 8,
+  "versionName": "8.1",
   "apkUrl": "https://raw.githubusercontent.com/jazzylily/ecstock-updates/master/app-release.apk",
   "apkSize": 37977897,
   "releaseNotes": "Release with added product notes, new location navigation, add scan barcode to add to product ",
